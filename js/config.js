@@ -15,7 +15,7 @@ window.FFM_CONFIG = {
   OPERATOR_CONTACT: '',                         // 개인정보·위치정보 문의처(이메일 또는 전화) ※ 운영 전 반드시 입력
   PRIVACY_OFFICER: '',                          // 개인정보 보호책임자·위치정보관리책임자 (예: '홍길동 팀장') ※ 운영 전 반드시 입력
   DATA_REGION: '대한민국(서울) ap-northeast-2',     // Supabase 프로젝트 리전
-  CONSENT_VERSION: '2026-10-13',                // 동의문구 버전(문구 변경 시 날짜 갱신)
+  CONSENT_VERSION: '2026-10-14',                // 동의문구 버전(문구 변경 시 날짜 갱신)
   OBS_RETENTION_DAYS: 365,                      // 관측(사진·위치) 보유기간 - sql/schema.sql 의 값과 동일하게 유지
   CALLBACK_RETENTION_DAYS: 30,                  // 회신 전화번호 보유기간 - sql/schema.sql 의 값과 동일하게 유지
 
